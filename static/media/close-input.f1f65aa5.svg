@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <path id="semcq8ynoa" d="M12.771 3.229c.283.282.283.74 0 1.021L9.022 8l3.75 3.75c.282.282.282.74 0 1.021-.283.283-.74.283-1.022 0L8 9.022l-3.75 3.75c-.282.282-.74.282-1.021 0-.283-.283-.283-.74 0-1.022L6.978 8l-3.75-3.75c-.282-.282-.282-.74 0-1.021.283-.283.74-.283 1.022 0L8 6.978l3.75-3.75c.282-.282.74-.282 1.021 0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path d="M0 0H16V16H0z"/>
+        <use fill="currentColor" fill-rule="nonzero" xlink:href="#semcq8ynoa"/>
+    </g>
+</svg>
